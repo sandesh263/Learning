@@ -1,2 +1,5 @@
 Hello this is my first file
-I make some changes to show you
+I make some changes to show you.
+
+This is Features
+And is separate repository
